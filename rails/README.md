@@ -22,26 +22,26 @@ Sources:
 
   https://robots.thoughtbot.com/sandi-metz-rules-for-developers
 
-## Testování
+## Testing
 
 ### TDD
 
-- Unit testy: [Test Driven Development for RailsGirls](http://guides.railsgirls.com/test-driven-development/)
-- Controller testy: [BDD on Rails with MiniTest](https://semaphoreci.com/blog/2014/10/27/bdd-on-rails-with-minitest-part-1-up-and-running.html)
+- Unit tests: [Test Driven Development for RailsGirls](http://guides.railsgirls.com/test-driven-development/)
+- Controller tests: [BDD on Rails with MiniTest](https://semaphoreci.com/blog/2014/10/27/bdd-on-rails-with-minitest-part-1-up-and-running.html)
 
-Rails obsahují jak TestCase, tak MiniTest. TestCase je starší, zpětně kompatibilní do Rails 2 a je založený na testování pomocí assertů:
+There are both TestCase and MiniTest classes in Rails. TestCase is older and backwards compatible to Rails 2 and it is based on assertions:
 
 ```
 assert_equal(function(x), "expected result")
 ```
 
-v MiniTestu se naopak používají expectations:
+while MiniTest is based on expectations:
 
 ```
 function(x).must_equal("expected result")
 ```
 
-### Další materiály
+### Other sources
 
-- Jak nastavit Rails na fungování s MiniTestem, tj. přenastavit generátory testů na MiniTest a základní syntax guide: [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
-- Kompletní kniha, značně detailní: [The MiniTest Cookbook](http://chriskottom.com/minitestcookbook/)
+- How to set up Rails to work with MiniTest - generators and a basic syntax guide: [Getting Started with MiniTest](http://6ftdan.com/allyourdev/2015/04/04/getting-started-with-minitest/)
+- A complete, detailed book: [The MiniTest Cookbook](http://chriskottom.com/minitestcookbook/)
