@@ -8,3 +8,5 @@ All of our projects should have following [PR](https://github.com/blog/2111-issu
 #### Do I need to run
 - [ ] `yarn install`
 - [ ] `bundle`
+
+Feel free to delete parts that aren't appropriate.
