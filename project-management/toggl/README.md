@@ -18,3 +18,9 @@ On the other side, if you don't let your mind rest, your productivity will go do
 - team communication over a specific task
 - all clients communication, including preparing a new project
 - 5 minutes of rest every half an hour (working on a side project is not resting)
+
+## How to track
+
+Try to relate your time spent to Trello tasks or other specific actions (meeting with client, discussing quote).
+
+Activities such as code review or testing are part of a specific task, track them as such, please.
