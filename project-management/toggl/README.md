@@ -12,7 +12,8 @@ On the other side, if you don't let your mind rest, your productivity will go do
 - coffee/tea breaks unless listed below
 - company development, team management
 
-## Do track
+
+## Do track
 
 - programming, analysis, reading/writing documentation
 - team communication over a specific task
