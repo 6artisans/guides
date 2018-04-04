@@ -2,7 +2,7 @@
 
 ## 100% client satisfaction
 
-Maximum client satisfaction on project delivery should be our mail goal. As such, we should learn about the business circumstances of the client and anticipate any possible miscommunications or errors in the assignment. Instead of making something the client wants at the start, we should aim for something he needs in the end.
+Maximum client satisfaction on project delivery should be our main goal. As such, we should learn about the business circumstances of the client and anticipate any possible miscommunications or errors in the assignment. Instead of making something the client wants at the start, we should aim for something he needs in the end.
 
 Situations to be careful about as they might be a red light:
 
