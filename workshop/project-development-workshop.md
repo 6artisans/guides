@@ -16,6 +16,7 @@
 * Product Strategy - long term plan
 * Product Roadmap - short term plan
 * Product metrics - KPI
+   * How we will know that we have succeeded?
 
 #### Budget
 
